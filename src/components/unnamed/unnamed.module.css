@@ -1,0 +1,7 @@
+.root {
+  position: relative;
+  width: 1475px;
+  height: 900px;
+  background-color: #fff;
+  overflow: hidden;
+}
